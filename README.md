@@ -7,7 +7,7 @@
 
 🎯 **Quality Engineering Lead | Automation Architect | Python | Payments**
 
-Welcome to my GitHub! With over **13 years of QA experience**, I specialize in building **resilient automation frameworks**, modernizing legacy test systems, and leading cross-functional teams across Agile enterprises.
+Welcome to my GitHub! With over **14 years of QA experience**, I specialize in building **resilient automation frameworks**, modernizing legacy test systems, and leading cross-functional teams across Agile enterprises.
 
 ---
 
@@ -34,7 +34,7 @@ Welcome to my GitHub! With over **13 years of QA experience**, I specialize in b
 ### 🔹 [TST-Playwright](https://github.com/ashishmishra36/tst-playwright)
 > Test automation setup using Microsoft Playwright (TypeScript) with real-world test cases.
 
-- 🔍 UI test examples with selectors waits, and test hooks
+- 🔍 UI test examples with selectors, waits, and test hooks
 - 🌐 Cross-browser testing scaffolding
 - ⚙️ CI-friendly structure for scale
 
@@ -47,16 +47,15 @@ Welcome to my GitHub! With over **13 years of QA experience**, I specialize in b
 - Delivered secure, scalable, and compliant solutions in high-stakes environments
 
 📊 **Analytics-Driven QA**
-- Built lead-gen test analytics using Google Analytics and event tracking  
 - Worked on dashboards to measure real QA impact
 
 ---
 
 ## 💼 Work Ethic & Leadership
 
-- ⚡ Automation-first test strategy champion  
+- ⚡ Automation-first test strategy with AI-first approach
 - 🚀 Led multiple cloud migrations and test modernizations  
-- 🤝 Culture builder in Agile teams—mentored 50+ QAs, Devs, and Analysts
+- 🤝 Believe that the quality of software originates from the idea of the product and is tested daily by the product users.
 
 ---
 
