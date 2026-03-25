@@ -2,7 +2,7 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ashishmishra36)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mishra36" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mishra36?trk=profile-badge">Ashish Mishra</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ashishmishraqа" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ashishmishraq%D0%B0?trk=profile-badge">Ashish Mishra</a></div>
 
 
 🎯 **Quality Engineering Lead | Automation Architect | Python | Payments**
