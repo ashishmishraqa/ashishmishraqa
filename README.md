@@ -3,7 +3,8 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ashishmishra36)
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mishra36" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mishra36?trk=profile-badge">Ashish Mishra</a></div>
-              
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 🎯 **Quality Engineering Lead | Automation Architect | Python | Payments**
 
